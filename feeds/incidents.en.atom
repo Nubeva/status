@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.nuos.io</id>
+    <title>Nubeva Key Extraction Status Page</title>
+    <updated>2020-06-10T03:39:33.475Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.nuos.io"/>
+    <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+</feed>
