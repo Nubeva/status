@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Wed, 10 Jun 2020 04:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2020 04:55:53 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft Edge v83.0.478.45 release]]></title>
+            <link>https://status.nuos.io/incidents/5f0b154e</link>
+            <guid>https://status.nuos.io/incidents/5f0b154e</guid>
+            <pubDate>Fri, 05 Jun 2020 04:53:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are buildin a new key extraction agent to support it.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
     </channel>
 </rss>
