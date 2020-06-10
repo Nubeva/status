@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Statusfy//status.nuos.io//calendar//scheduled//EN
-NAME:Nubeva Key Extraction Status Page
-X-WR-CALNAME:Nubeva Key Extraction Status Page
+NAME:Key Extraction Status Page
+X-WR-CALNAME:Key Extraction Status Page
 TIMEZONE-ID:UTC
 X-WR-TIMEZONE:UTC
 END:VCALENDAR

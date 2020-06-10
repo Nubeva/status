@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Nubeva Key Extraction Status Page</title>
+        <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
-        <description></description>
-        <lastBuildDate>Wed, 10 Jun 2020 03:48:26 GMT</lastBuildDate>
+        <description>We are aiming to add support for new versions within 5 hours after public release</description>
+        <lastBuildDate>Wed, 10 Jun 2020 04:11:27 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
