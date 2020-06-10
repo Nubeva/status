@@ -1,5 +1,5 @@
-title: Nubeva Key Extraction Status Page
-name: nubeva_key_extraction_status_page
+title: "Key Extraction Status Page"
+name: key_extraction_status_page
 description: ""
 defaultLocale: en
 baseUrl: "https://status.nuos.io"
