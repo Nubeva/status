@@ -1,0 +1,10 @@
+{
+  "title": "Nubeva Key Extraction Status Page",
+  "description": "",
+  "dropbox": "Dropbox",
+  "edge": "Microsoft Edge",
+  "chrome": "Google Chrome",
+  "zscaler": "Zscaler",
+  "openssl": "OpenSSL",
+  "nss": "NSS"
+}

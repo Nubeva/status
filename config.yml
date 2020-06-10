@@ -1,0 +1,19 @@
+title: Nubeva Key Extraction Status Page
+name: nubeva_key_extraction_status_page
+description: ""
+defaultLocale: en
+baseUrl: "status.nuos.io"
+locales:
+  - code: en
+    iso: en-US
+    name: English
+    file: en.json
+content:
+  frontMatterFormat: yaml
+  systems:
+    - dropbox
+    - edge
+    - chrome
+    - zscaler
+    - openssl
+    - nss
