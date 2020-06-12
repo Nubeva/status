@@ -1,6 +1,21 @@
 {
   "title": "Key Extraction Status Page",
   "description": "",
+  "incidents": {
+    "latest-incidents": "Latest Releases",
+    "incidents": "Releases",
+    "incident": "Release",
+    "incidents-history": "Releases History",
+    "incidents-history-description": "Current & Historical new version releases.",
+    "incidents-history-days-since-latest": "1 day since last release | {days} days since last release",
+    "no-incidents": "No new versions detected.",
+    "current-status": "Current Status",
+    "current-status-description": "Keep up to date with real-time and historical releases which may bea ffecting you."
+  },
+  "statuses": {
+    "operational": "Supported",
+    "partial-outage": "Unsupported"
+  },
   "systems": {
       "items": {
           "dropbox": {"title": "Dropbox (98.4.158)"},
