@@ -15,5 +15,6 @@ content:
     - edge
     - chrome
     - zscaler
+    - lsass
     - openssl
     - nss
