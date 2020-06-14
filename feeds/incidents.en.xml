@@ -4,14 +4,32 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Fri, 12 Jun 2020 22:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2020 13:29:26 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Windows LSASS v10.0.17763.1282 released]]></title>
+            <link>https://status.nuos.io/incidents/70b63d7c</link>
+            <guid>https://status.nuos.io/incidents/70b63d7c</guid>
+            <pubDate>Fri, 12 Jun 2020 22:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New LSASS version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Windows LSASS v10.0.18362.900 released]]></title>
             <link>https://status.nuos.io/incidents/e950e5b0</link>
             <guid>https://status.nuos.io/incidents/e950e5b0</guid>
+            <pubDate>Fri, 12 Jun 2020 22:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New LSASS version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Windows LSASS v10.0.19041.329 released]]></title>
+            <link>https://status.nuos.io/incidents/3b5eec46</link>
+            <guid>https://status.nuos.io/incidents/3b5eec46</guid>
             <pubDate>Fri, 12 Jun 2020 22:36:42 GMT</pubDate>
             <content:encoded><![CDATA[<p>New LSASS version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 <!--- language code: en -->
