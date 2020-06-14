@@ -1,5 +1,5 @@
 ---
-title: Windows LSASS v10.0.18362.900 released
+title: Windows LSASS v10.0.19041.329 released
 date: '2020-06-12T22:36:42.083Z'
 severity: partial-outage
 affectedsystems:
