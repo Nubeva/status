@@ -3,20 +3,21 @@
         <h2>{{ $t("incidents.latest-incidents") }}</h2>
 
         <ul class="timeline">
-            <li v-if="data.daysSinceLatest > 0" class="timeline-incident">
-                <h3 class="timeline-incident-title">
-                    {{
-                    $tc(
-                    "incidents.incidents-history-days-since-latest",
-                    data.daysSinceLatest,
-                    { days: data.daysSinceLatest }
-                    )
-                    }}
-                </h3>
-            </li>
+<!--            <li v-if="data.daysSinceLatest > 0" class="timeline-incident">-->
+<!--                <h3 class="timeline-incident-title">-->
+<!--                    {{-->
+<!--                    $tc(-->
+<!--                    "incidents.incidents-history-days-since-latest",-->
+<!--                    data.daysSinceLatest,-->
+<!--                    { days: data.daysSinceLatest }-->
+<!--                    )-->
+<!--                    }}-->
+<!--                </h3>-->
+<!--            </li>-->
 
             <li
                     v-for="day of days"
+                    v-if="day.incidents.length > 0"
                     :key="day.date"
                     :class="day.status.key"
                     class="timeline-incident"
@@ -26,10 +27,6 @@
                 </h3>
 
                 <div class="timeline-incident-body">
-                    <div v-if="day.incidents.length === 0" class="message">
-                        {{ $t("incidents.no-incidents") }}
-                    </div>
-
                     <incident
                             v-for="incident in day.incidents"
                             :key="incident.id"
