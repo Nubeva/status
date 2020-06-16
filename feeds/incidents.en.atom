@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-06-16T06:53:13.242Z</updated>
+    <updated>2020-06-16T21:52:28.707Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome v83.0.4103.106 released]]></title>
+        <id>https://status.nuos.io/incidents/08f7780e</id>
+        <link href="https://status.nuos.io/incidents/08f7780e"/>
+        <updated>2020-06-16T21:49:36.476Z</updated>
+        <content type="html"><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v83.0.478.50 released]]></title>
+        <id>https://status.nuos.io/incidents/eb0d65d8</id>
+        <link href="https://status.nuos.io/incidents/eb0d65d8"/>
+        <updated>2020-06-16T21:49:36.476Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows LSASS v10.0.14393.3750 released]]></title>
         <id>https://status.nuos.io/incidents/17308de4</id>
