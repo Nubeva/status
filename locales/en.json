@@ -24,10 +24,12 @@
           "zscaler": {"title": "Zscaler (2.1.0.210)"},
           "lsass_win10_2004": {"title": "LSASS (Windows 10 v2004; v10.0.19041.329)"},
           "lsass_win10_1909": {"title": "LSASS (Windows 10 v1909; v10.0.18362.900)"},
-          "lsass_winserv2009": {"title": "LSASS (Windows Server 2019 v1909; v10.0.17763.1282)"},
-          "lsass_winserv2004": {"title": "LSASS (Windows Server 2012; v6.2.9200.22562)"},
+          "lsass_winserv2019": {"title": "LSASS (Windows Server 2019; v10.0.17763.1282)"},
+          "lsass_winserv2016": {"title": "LSASS (Windows Server 2016; v10.0.14393.3750)"},
+          "lsass_winserv2012": {"title": "LSASS (Windows Server 2012; v6.3.9600.19473)"},
           "openssl_fips": {"title": "OpenSSL (fips-2.0.16)"},
           "openssl_111": {"title": "OpenSSL (1.1.1g)"},
+          "openssl_110": {"title": "OpenSSL (1.1.0l)"},
           "nss": {"title": "NSS (3.51)"}
       }
   }
