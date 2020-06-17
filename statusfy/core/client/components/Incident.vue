@@ -34,16 +34,6 @@
                     </component>
                 </template>
             </div>
-
-            <div class="incident-systems">
-        <span
-                v-for="system of incident.affectedsystems"
-                :key="system"
-                class="badge"
-        >
-          {{ $t(`systems.items.${system}.title`) }}
-        </span>
-            </div>
         </div>
 
         <div class="incident-subtitle">
