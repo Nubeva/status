@@ -10,7 +10,11 @@
     "incidents-history-days-since-latest": "1 day since last release | {days} days since last release",
     "no-incidents": "No new versions detected.",
     "current-status": "Current Status",
-    "current-status-description": "Keep up to date with real-time and historical releases which may bea ffecting you."
+    "current-status-description": "Keep up to date with real-time and historical releases which may bea ffecting you.",
+    "collapse": {
+      "show": "Show all {count} Releases",
+      "hide": "Show less Releases"
+    }
   },
   "statuses": {
     "operational": "Supported",
