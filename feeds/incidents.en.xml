@@ -4,26 +4,10 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Tue, 30 Jun 2020 01:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2020 03:22:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Google Chrome v1.2.3.4 released]]></title>
-            <link>https://status.nuos.io/incidents/72f641f2</link>
-            <guid>https://status.nuos.io/incidents/72f641f2</guid>
-            <pubDate>Tue, 30 Jun 2020 01:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Google Chrome v1.2.3.4 released]]></title>
-            <link>https://status.nuos.io/incidents/6dd3f246</link>
-            <guid>https://status.nuos.io/incidents/6dd3f246</guid>
-            <pubDate>Mon, 29 Jun 2020 13:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
-]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Dropbox v100.4.409 release]]></title>
             <link>https://status.nuos.io/incidents/d178d50a</link>
