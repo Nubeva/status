@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{275:function(r,t,e){"use strict";e.r(t);var o={layout:"404",components:{ErrorPage:e(21).a},data:()=>({error:{statusCode:404}})},n=e(8),component=Object(n.a)(o,(function(){var r=this.$createElement;return(this._self._c||r)("ErrorPage",{attrs:{error:this.error}})}),[],!1,null,null,null);t.default=component.exports}}]);
