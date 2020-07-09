@@ -1,40 +1,66 @@
 {
-  "title": "Key Extraction Status Page",
-  "description": "",
-  "incidents": {
-    "latest-incidents": "Latest Releases",
-    "incidents": "Releases",
-    "incident": "Release",
-    "incidents-history": "Releases History",
-    "incidents-history-description": "Current & Historical new version releases.",
-    "incidents-history-days-since-latest": "1 day since last release | {days} days since last release",
-    "no-incidents": "No new versions detected.",
-    "current-status": "Current Status",
-    "current-status-description": "Keep up to date with real-time and historical releases which may bea ffecting you.",
-    "collapse": {
-      "show": "Show all {count} Releases",
-      "hide": "Show less Releases"
+    "title": "Key Extraction Status Page",
+    "description": "",
+    "incidents": {
+        "latest-incidents": "Latest Releases",
+        "incidents": "Releases",
+        "incident": "Release",
+        "incidents-history": "Releases History",
+        "incidents-history-description": "Current \u0026 Historical new version releases.",
+        "incidents-history-days-since-latest": "1 day since last release | {days} days since last release",
+        "no-incidents": "No new versions detected.",
+        "current-status": "Current Status",
+        "current-status-description": "Keep up to date with real-time and historical releases which may bea ffecting you.",
+        "collapse": {
+            "show": "Show all {count} Releases",
+            "hide": "Show less Releases"
+        }
+    },
+    "statuses": {
+        "operational": "Supported",
+        "partial-outage": "Unsupported"
+    },
+    "systems": {
+        "items": {
+            "chrome": {
+                "title": "Google Chrome (83.0.4103.116)"
+            },
+            "dropbox": {
+                "title": "Dropbox (100.4.409)"
+            },
+            "edge": {
+                "title": "Microsoft Edge (83.0.478.61)"
+            },
+            "lsass_win10_1909": {
+                "title": "LSASS (Windows 10 v1909; v10.0.18362.900)"
+            },
+            "lsass_win10_2004": {
+                "title": "LSASS (Windows 10 v2004; v10.0.19041.329)"
+            },
+            "lsass_winserv2012": {
+                "title": "LSASS (Windows Server 2012; v6.3.9600.19473)"
+            },
+            "lsass_winserv2016": {
+                "title": "LSASS (Windows Server 2016; v10.0.14393.3750)"
+            },
+            "lsass_winserv2019": {
+                "title": "LSASS (Windows Server 2019; v10.0.17763.1282)"
+            },
+            "nss": {
+                "title": "NSS (3.51)"
+            },
+            "openssl_110": {
+                "title": "OpenSSL (1.1.0l)"
+            },
+            "openssl_111": {
+                "title": "OpenSSL (1.1.1g)"
+            },
+            "openssl_fips": {
+                "title": "OpenSSL (fips-2.0.16)"
+            },
+            "zscaler": {
+                "title": "Zscaler (2.1.0.210)"
+            }
+        }
     }
-  },
-  "statuses": {
-    "operational": "Supported",
-    "partial-outage": "Unsupported"
-  },
-  "systems": {
-      "items": {
-          "dropbox": {"title": "Dropbox (100.4.409)"},
-          "edge": {"title": "Microsoft Edge (83.0.478.58)"},
-          "chrome": {"title": "Google Chrome (83.0.4103.116)"},
-          "zscaler": {"title": "Zscaler (2.1.0.210)"},
-          "lsass_win10_2004": {"title": "LSASS (Windows 10 v2004; v10.0.19041.329)"},
-          "lsass_win10_1909": {"title": "LSASS (Windows 10 v1909; v10.0.18362.900)"},
-          "lsass_winserv2019": {"title": "LSASS (Windows Server 2019; v10.0.17763.1282)"},
-          "lsass_winserv2016": {"title": "LSASS (Windows Server 2016; v10.0.14393.3750)"},
-          "lsass_winserv2012": {"title": "LSASS (Windows Server 2012; v6.3.9600.19473)"},
-          "openssl_fips": {"title": "OpenSSL (fips-2.0.16)"},
-          "openssl_111": {"title": "OpenSSL (1.1.1g)"},
-          "openssl_110": {"title": "OpenSSL (1.1.0l)"},
-          "nss": {"title": "NSS (3.51)"}
-      }
-  }
 }
