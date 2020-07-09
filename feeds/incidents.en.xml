@@ -4,7 +4,7 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Thu, 09 Jul 2020 04:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2020 04:45:48 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -22,14 +22,6 @@
             <guid>https://status.nuos.io/incidents/d0f5befe</guid>
             <pubDate>Thu, 09 Jul 2020 04:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<p>New Dropbox version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft Edge v83.0.478.61 released]]></title>
-            <link>https://status.nuos.io/incidents/1477f160</link>
-            <guid>https://status.nuos.io/incidents/1477f160</guid>
-            <pubDate>Thu, 09 Jul 2020 02:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 ]]></content:encoded>
         </item>
         <item>
