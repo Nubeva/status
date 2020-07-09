@@ -2,24 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-07-09T04:57:34.273Z</updated>
+    <updated>2020-07-09T06:57:57.556Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
-    <entry>
-        <title type="html"><![CDATA[Dropbox v101.4.434 released]]></title>
-        <id>https://status.nuos.io/incidents/d0f5befe</id>
-        <link href="https://status.nuos.io/incidents/d0f5befe"/>
-        <updated>2020-07-09T04:56:34.000Z</updated>
-        <content type="html"><![CDATA[<p>New Dropbox version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge v83.0.478.61 released]]></title>
         <id>https://status.nuos.io/incidents/6923dc4f</id>
         <link href="https://status.nuos.io/incidents/6923dc4f"/>
         <updated>2020-07-09T04:13:37.000Z</updated>
         <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropbox v101.4.434 released]]></title>
+        <id>https://status.nuos.io/incidents/d0f5befe</id>
+        <link href="https://status.nuos.io/incidents/d0f5befe"/>
+        <updated>2020-07-09T04:12:27.000Z</updated>
+        <content type="html"><![CDATA[<p>New Dropbox version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 ]]></content>
     </entry>
     <entry>
