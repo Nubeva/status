@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-07-09T06:57:57.556Z</updated>
+    <updated>2020-07-20T11:53:47.483Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lsass v10.0.18362.959 released]]></title>
+        <id>https://status.nuos.io/incidents/f445bfdc</id>
+        <link href="https://status.nuos.io/incidents/f445bfdc"/>
+        <updated>2020-07-20T11:52:45.000Z</updated>
+        <content type="html"><![CDATA[<p>New Lsass version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge v83.0.478.61 released]]></title>
         <id>https://status.nuos.io/incidents/6923dc4f</id>
