@@ -15,9 +15,12 @@ content:
     - edge
     - chrome
     - zscaler
-    - lsass_win10_1909
     - lsass_win10_2004
-    - lsass_winserv2009
-    - lsass_winserv2004
-    - openssl
+    - lsass_win10_1909
+    - lsass_winserv2019
+    - lsass_winserv2016
+    - lsass_winserv2012
+    - openssl_fips
+    - openssl_111
+    - openssl_110
     - nss
