@@ -4,7 +4,7 @@ date: '2020-07-20T13:02:14.424Z'
 severity: partial-outage
 affectedsystems:
   - chrome
-resolved: false
+resolved: true
 ---
 New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.
 
