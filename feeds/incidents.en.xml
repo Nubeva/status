@@ -4,7 +4,7 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Sun, 26 Jul 2020 15:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2020 16:01:43 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +14,42 @@
             <guid>https://status.nuos.io/incidents/5652f762</guid>
             <pubDate>Sun, 26 Jul 2020 15:50:44 GMT</pubDate>
             <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dropbox v102.4.431 released]]></title>
+            <link>https://status.nuos.io/incidents/64346787</link>
+            <guid>https://status.nuos.io/incidents/64346787</guid>
+            <pubDate>Wed, 22 Jul 2020 21:36:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Dropbox version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LSASS (Windows Server 2016; v10.0.14393.3808)]]></title>
+            <link>https://status.nuos.io/incidents/bef2b0e6</link>
+            <guid>https://status.nuos.io/incidents/bef2b0e6</guid>
+            <pubDate>Mon, 20 Jul 2020 14:52:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New LSASS (Windows Server 2016; v10.0.14393.3808) version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LSASS (Windows Server 2019; v10.0.17763.1339) released]]></title>
+            <link>https://status.nuos.io/incidents/728163df</link>
+            <guid>https://status.nuos.io/incidents/728163df</guid>
+            <pubDate>Mon, 20 Jul 2020 14:45:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New LSASS (Windows Server 2019; v10.0.17763.1339) version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LSASS (Windows 10 v2004; v10.0.19041.388) released]]></title>
+            <link>https://status.nuos.io/incidents/dbd8ebea</link>
+            <guid>https://status.nuos.io/incidents/dbd8ebea</guid>
+            <pubDate>Mon, 20 Jul 2020 14:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New LSASS (Windows 10 v2004; v10.0.19041.388) version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
 ]]></content:encoded>
         </item>
         <item>
@@ -35,7 +71,7 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Lsass v10.0.18362.959 released]]></title>
+            <title><![CDATA[LSASS (Windows 10 v1909; 10.0.18362.959) released]]></title>
             <link>https://status.nuos.io/incidents/f445bfdc</link>
             <guid>https://status.nuos.io/incidents/f445bfdc</guid>
             <pubDate>Mon, 20 Jul 2020 11:52:45 GMT</pubDate>
