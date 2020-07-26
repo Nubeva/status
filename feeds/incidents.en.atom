@@ -2,35 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-07-22T21:19:51.739Z</updated>
+    <updated>2020-07-26T15:51:57.201Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
     <entry>
-        <title type="html"><![CDATA[LSASS (Windows Server 2016; v10.0.14393.3808)]]></title>
-        <id>https://status.nuos.io/incidents/bef2b0e6</id>
-        <link href="https://status.nuos.io/incidents/bef2b0e6"/>
-        <updated>2020-07-20T14:52:23.161Z</updated>
-        <content type="html"><![CDATA[<p>New LSASS (Windows Server 2016; v10.0.14393.3808) version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
-<!--- language code: en -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LSASS (Windows Server 2019; v10.0.17763.1339) released]]></title>
-        <id>https://status.nuos.io/incidents/728163df</id>
-        <link href="https://status.nuos.io/incidents/728163df"/>
-        <updated>2020-07-20T14:45:07.434Z</updated>
-        <content type="html"><![CDATA[<p>New LSASS (Windows Server 2019; v10.0.17763.1339) version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
-<!--- language code: en -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LSASS (Windows 10 v2004; v10.0.19041.388) released]]></title>
-        <id>https://status.nuos.io/incidents/dbd8ebea</id>
-        <link href="https://status.nuos.io/incidents/dbd8ebea"/>
-        <updated>2020-07-20T14:15:14.470Z</updated>
-        <content type="html"><![CDATA[<p>New LSASS (Windows 10 v2004; v10.0.19041.388) version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
-<!--- language code: en -->
+        <title type="html"><![CDATA[Microsoft Edge v84.0.522.44 released]]></title>
+        <id>https://status.nuos.io/incidents/5652f762</id>
+        <link href="https://status.nuos.io/incidents/5652f762"/>
+        <updated>2020-07-26T15:50:44.000Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 ]]></content>
     </entry>
     <entry>
@@ -52,7 +33,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LSASS (Windows 10 v1909; 10.0.18362.959) released]]></title>
+        <title type="html"><![CDATA[Lsass v10.0.18362.959 released]]></title>
         <id>https://status.nuos.io/incidents/f445bfdc</id>
         <link href="https://status.nuos.io/incidents/f445bfdc"/>
         <updated>2020-07-20T11:52:45.000Z</updated>
