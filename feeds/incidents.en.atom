@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-07-26T23:10:03.784Z</updated>
+    <updated>2020-07-28T00:06:39.415Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome v84.0.4147.105 released]]></title>
+        <id>https://status.nuos.io/incidents/204170ab</id>
+        <link href="https://status.nuos.io/incidents/204170ab"/>
+        <updated>2020-07-28T00:05:40.000Z</updated>
+        <content type="html"><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge v84.0.522.44 released]]></title>
         <id>https://status.nuos.io/incidents/5652f762</id>
