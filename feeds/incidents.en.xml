@@ -4,10 +4,18 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Tue, 28 Jul 2020 01:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2020 21:45:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft Edge v84.0.522.49 released]]></title>
+            <link>https://status.nuos.io/incidents/3909d7ed</link>
+            <guid>https://status.nuos.io/incidents/3909d7ed</guid>
+            <pubDate>Thu, 30 Jul 2020 21:44:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Google Chrome v84.0.4147.105 released]]></title>
             <link>https://status.nuos.io/incidents/204170ab</link>
