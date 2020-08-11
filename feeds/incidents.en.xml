@@ -4,10 +4,18 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Thu, 06 Aug 2020 20:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2020 14:00:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft Edge v84.0.522.58 released]]></title>
+            <link>https://status.nuos.io/incidents/6d26c52d</link>
+            <guid>https://status.nuos.io/incidents/6d26c52d</guid>
+            <pubDate>Tue, 11 Aug 2020 14:00:03 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Dropbox v103.4.383 released]]></title>
             <link>https://status.nuos.io/incidents/ab6eb942</link>
