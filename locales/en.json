@@ -23,7 +23,7 @@
     "systems": {
         "items": {
             "chrome": {
-                "title": "Google Chrome (84.0.4147.105)"
+                "title": "Google Chrome (84.0.4147.125)"
             },
             "dropbox": {
                 "title": "Dropbox (104.4.175)"
@@ -32,7 +32,7 @@
                 "title": "Microsoft Edge (84.0.522.59)"
             },
             "lsass_win10_1909": {
-                "title": "LSASS (Windows 10 v1909; 10.0.18362.959)"
+                "title": "LSASS (Windows 10 v1909; v10.0.18362.997)"
             },
             "lsass_win10_2004": {
                 "title": "LSASS (Windows 10 v2004; v10.0.19041.388)"
