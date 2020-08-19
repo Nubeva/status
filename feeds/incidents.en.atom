@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-08-14T04:58:46.799Z</updated>
+    <updated>2020-08-19T00:42:48.550Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome v84.0.4147.135 released]]></title>
+        <id>https://status.nuos.io/incidents/fac15332</id>
+        <link href="https://status.nuos.io/incidents/fac15332"/>
+        <updated>2020-08-19T00:41:46.000Z</updated>
+        <content type="html"><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dropbox v104.4.175 released]]></title>
         <id>https://status.nuos.io/incidents/b6a91f36</id>
         <link href="https://status.nuos.io/incidents/b6a91f36"/>
         <updated>2020-08-14T04:28:31.000Z</updated>
         <content type="html"><![CDATA[<p>New Dropbox version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LSASS (Windows 10 v1909; v10.0.18362.997) released]]></title>
+        <id>https://status.nuos.io/incidents/7976bf18</id>
+        <link href="https://status.nuos.io/incidents/7976bf18"/>
+        <updated>2020-08-11T22:37:17.407Z</updated>
+        <content type="html"><![CDATA[<p>New LSASS (Windows 10 v1909) version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome v84.0.4147.125 released]]></title>
+        <id>https://status.nuos.io/incidents/6cfd18ef</id>
+        <link href="https://status.nuos.io/incidents/6cfd18ef"/>
+        <updated>2020-08-11T22:01:07.454Z</updated>
+        <content type="html"><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
 ]]></content>
     </entry>
     <entry>
