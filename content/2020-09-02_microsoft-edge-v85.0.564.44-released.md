@@ -1,6 +1,6 @@
 ---
-title: Microsoft Edge v85.0.564.41 released
-date: '2020-08-31T14:20:57.133Z'
+title: Microsoft Edge v85.0.564.44 released
+date: '2020-09-02T01:32:49.026Z'
 severity: partial-outage
 affectedsystems:
   - edge
