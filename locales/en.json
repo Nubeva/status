@@ -41,10 +41,10 @@
                 "title": "LSASS (Windows Server 2012; v6.3.9600.19473)"
             },
             "lsass_winserv2016": {
-                "title": "LSASS (Windows Server 2016; v10.0.14393.3808)"
+                "title": "LSASS (Windows Server 2016; v10.0.14393.3930)"
             },
             "lsass_winserv2019": {
-                "title": "LSASS (Windows Server 2019; v10.0.17763.1339)"
+                "title": "LSASS (Windows Server 2019; v10.0.17763.1457)"
             },
             "nss": {
                 "title": "NSS (3.51)"
