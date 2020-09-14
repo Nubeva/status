@@ -4,10 +4,28 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Thu, 10 Sep 2020 12:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2020 15:05:16 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft Edge v85.0.564.51 released]]></title>
+            <link>https://status.nuos.io/incidents/46a11f2e</link>
+            <guid>https://status.nuos.io/incidents/46a11f2e</guid>
+            <pubDate>Mon, 14 Sep 2020 15:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LSASS (Windows 10 v1909) v10.0.18362.1082 released]]></title>
+            <link>https://status.nuos.io/incidents/0530735a</link>
+            <guid>https://status.nuos.io/incidents/0530735a</guid>
+            <pubDate>Mon, 14 Sep 2020 15:01:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New LSASS (Windows 10 v1909) version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[LSASS (Windows 10 v2004) vv10.0.19041.508 released]]></title>
             <link>https://status.nuos.io/incidents/23f716c2</link>

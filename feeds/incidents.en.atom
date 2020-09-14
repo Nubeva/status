@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-09-10T12:38:54.098Z</updated>
+    <updated>2020-09-14T15:05:16.684Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v85.0.564.51 released]]></title>
+        <id>https://status.nuos.io/incidents/46a11f2e</id>
+        <link href="https://status.nuos.io/incidents/46a11f2e"/>
+        <updated>2020-09-14T15:02:24.849Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LSASS (Windows 10 v1909) v10.0.18362.1082 released]]></title>
+        <id>https://status.nuos.io/incidents/0530735a</id>
+        <link href="https://status.nuos.io/incidents/0530735a"/>
+        <updated>2020-09-14T15:01:32.428Z</updated>
+        <content type="html"><![CDATA[<p>New LSASS (Windows 10 v1909) version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LSASS (Windows 10 v2004) vv10.0.19041.508 released]]></title>
         <id>https://status.nuos.io/incidents/23f716c2</id>
