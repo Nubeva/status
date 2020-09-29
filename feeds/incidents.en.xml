@@ -4,10 +4,19 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Fri, 25 Sep 2020 02:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2020 23:06:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dropbox v106.4.368 released]]></title>
+            <link>https://status.nuos.io/incidents/1997656e</link>
+            <guid>https://status.nuos.io/incidents/1997656e</guid>
+            <pubDate>Tue, 29 Sep 2020 23:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Dropbox version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Microsoft Edge v85.0.564.63 released]]></title>
             <link>https://status.nuos.io/incidents/2f98a72a</link>
