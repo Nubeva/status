@@ -26,16 +26,16 @@
                 "title": "Google Chrome (86.0.4240.75)"
             },
             "dropbox": {
-                "title": "Dropbox (105.4.651)"
+                "title": "Dropbox (106.4.368)"
             },
             "edge": {
-                "title": "Microsoft Edge (85.0.564.63)"
+                "title": "Microsoft Edge (86.0.622.38)"
             },
             "lsass_win10_1909": {
                 "title": "LSASS (Windows 10 v1909; v10.0.18362.1082)"
             },
             "lsass_win10_2004": {
-                "title": "LSASS (Windows 10 v2004; v10.0.19041.508)"
+                "title": "LSASS (Windows 10 v2004; v10.0.19041.546)"
             },
             "lsass_winserv2012": {
                 "title": "LSASS (Windows Server 2012; v6.3.9600.19473)"
