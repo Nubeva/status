@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-10-16T01:43:17.874Z</updated>
+    <updated>2020-10-16T03:53:40.797Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Support Dropbox v107.4.443]]></title>
+        <id>https://status.nuos.io/incidents/04cd0d42</id>
+        <link href="https://status.nuos.io/incidents/04cd0d42"/>
+        <updated>2020-10-16T03:51:44.056Z</updated>
+        <content type="html"><![CDATA[<p>New Dropbox version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dropbox v107.4.443 released]]></title>
         <id>https://status.nuos.io/incidents/6ea76480</id>
