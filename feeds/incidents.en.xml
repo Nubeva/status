@@ -4,10 +4,18 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Fri, 16 Oct 2020 00:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2020 01:43:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dropbox v107.4.443 released]]></title>
+            <link>https://status.nuos.io/incidents/6ea76480</link>
+            <guid>https://status.nuos.io/incidents/6ea76480</guid>
+            <pubDate>Fri, 16 Oct 2020 01:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Dropbox version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[LSASS v10.0.19041.546 released]]></title>
             <link>https://status.nuos.io/incidents/78ce43d2</link>
