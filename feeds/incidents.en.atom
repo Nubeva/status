@@ -2,15 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-10-28T10:52:54.799Z</updated>
+    <updated>2020-11-11T23:18:33.824Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome v86.0.4240.198 released]]></title>
+        <id>https://status.nuos.io/incidents/75b1595b</id>
+        <link href="https://status.nuos.io/incidents/75b1595b"/>
+        <updated>2020-11-11T23:16:08.452Z</updated>
+        <content type="html"><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome v86.0.4240.183 released]]></title>
+        <id>https://status.nuos.io/incidents/14cd6ab4</id>
+        <link href="https://status.nuos.io/incidents/14cd6ab4"/>
+        <updated>2020-11-03T00:12:46.448Z</updated>
+        <content type="html"><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v86.0.622.58 released]]></title>
+        <id>https://status.nuos.io/incidents/d26dc356</id>
+        <link href="https://status.nuos.io/incidents/d26dc356"/>
+        <updated>2020-11-03T00:11:51.791Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge v86.0.622.56 released]]></title>
         <id>https://status.nuos.io/incidents/767c2d92</id>
         <link href="https://status.nuos.io/incidents/767c2d92"/>
         <updated>2020-10-28T10:46:36.349Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v86.0.622.43 released]]></title>
+        <id>https://status.nuos.io/incidents/f954a816</id>
+        <link href="https://status.nuos.io/incidents/f954a816"/>
+        <updated>2020-10-17T11:00:34.693Z</updated>
         <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 <!--- language code: en -->
 ]]></content>
