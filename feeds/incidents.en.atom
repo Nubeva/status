@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-12-15T10:53:19.309Z</updated>
+    <updated>2020-12-15T11:01:45.296Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
@@ -52,6 +52,15 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google Chrome v87.0.4280.88 released]]></title>
+        <id>https://status.nuos.io/incidents/68047eda</id>
+        <link href="https://status.nuos.io/incidents/68047eda"/>
+        <updated>2020-12-03T10:58:35.283Z</updated>
+        <content type="html"><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft Edge v87.0.664.52 released]]></title>
         <id>https://status.nuos.io/incidents/6f99da30</id>
         <link href="https://status.nuos.io/incidents/6f99da30"/>
@@ -75,6 +84,15 @@
         <link href="https://status.nuos.io/incidents/c18debe0"/>
         <updated>2020-11-22T10:38:23.823Z</updated>
         <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome v87.0.4280.66 released]]></title>
+        <id>https://status.nuos.io/incidents/dc845ba8</id>
+        <link href="https://status.nuos.io/incidents/dc845ba8"/>
+        <updated>2020-11-18T10:55:42.144Z</updated>
+        <content type="html"><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 <!--- language code: en -->
 ]]></content>
     </entry>

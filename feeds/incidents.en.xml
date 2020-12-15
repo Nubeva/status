@@ -4,7 +4,7 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Tue, 15 Dec 2020 10:53:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2020 11:01:45 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -54,6 +54,15 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Google Chrome v87.0.4280.88 released]]></title>
+            <link>https://status.nuos.io/incidents/68047eda</link>
+            <guid>https://status.nuos.io/incidents/68047eda</guid>
+            <pubDate>Thu, 03 Dec 2020 10:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Microsoft Edge v87.0.664.52 released]]></title>
             <link>https://status.nuos.io/incidents/6f99da30</link>
             <guid>https://status.nuos.io/incidents/6f99da30</guid>
@@ -77,6 +86,15 @@
             <guid>https://status.nuos.io/incidents/c18debe0</guid>
             <pubDate>Sun, 22 Nov 2020 10:38:23 GMT</pubDate>
             <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Google Chrome v87.0.4280.66 released]]></title>
+            <link>https://status.nuos.io/incidents/dc845ba8</link>
+            <guid>https://status.nuos.io/incidents/dc845ba8</guid>
+            <pubDate>Wed, 18 Nov 2020 10:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 <!--- language code: en -->
 ]]></content:encoded>
         </item>
