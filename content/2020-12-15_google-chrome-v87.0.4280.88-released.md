@@ -1,6 +1,6 @@
 ---
-title: Google Chrome v86.0.4240.198 released
-date: '2020-11-11T23:16:08.452Z'
+title: Google Chrome v87.0.4280.88 released
+date: '2020-12-03T10:58:35.283Z'
 severity: partial-outage
 affectedsystems:
   - chrome
