@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-12-15T11:01:45.296Z</updated>
+    <updated>2020-12-15T11:07:25.336Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
@@ -21,6 +21,15 @@
         <link href="https://status.nuos.io/incidents/747196cd"/>
         <updated>2020-12-12T10:46:22.430Z</updated>
         <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL 1.1.1i released]]></title>
+        <id>https://status.nuos.io/incidents/7d53b462</id>
+        <link href="https://status.nuos.io/incidents/7d53b462"/>
+        <updated>2020-12-09T11:04:35.288Z</updated>
+        <content type="html"><![CDATA[<p>New OpenSSL version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 <!--- language code: en -->
 ]]></content>
     </entry>
@@ -84,6 +93,15 @@
         <link href="https://status.nuos.io/incidents/c18debe0"/>
         <updated>2020-11-22T10:38:23.823Z</updated>
         <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL 1.1.1h released]]></title>
+        <id>https://status.nuos.io/incidents/e25ea43e</id>
+        <link href="https://status.nuos.io/incidents/e25ea43e"/>
+        <updated>2020-11-20T11:03:30.331Z</updated>
+        <content type="html"><![CDATA[<p>New OpenSSL version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 <!--- language code: en -->
 ]]></content>
     </entry>

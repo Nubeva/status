@@ -4,7 +4,7 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Tue, 15 Dec 2020 11:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2020 11:07:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -23,6 +23,15 @@
             <guid>https://status.nuos.io/incidents/747196cd</guid>
             <pubDate>Sat, 12 Dec 2020 10:46:22 GMT</pubDate>
             <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[OpenSSL 1.1.1i released]]></title>
+            <link>https://status.nuos.io/incidents/7d53b462</link>
+            <guid>https://status.nuos.io/incidents/7d53b462</guid>
+            <pubDate>Wed, 09 Dec 2020 11:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New OpenSSL version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 <!--- language code: en -->
 ]]></content:encoded>
         </item>
@@ -86,6 +95,15 @@
             <guid>https://status.nuos.io/incidents/c18debe0</guid>
             <pubDate>Sun, 22 Nov 2020 10:38:23 GMT</pubDate>
             <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[OpenSSL 1.1.1h released]]></title>
+            <link>https://status.nuos.io/incidents/e25ea43e</link>
+            <guid>https://status.nuos.io/incidents/e25ea43e</guid>
+            <pubDate>Fri, 20 Nov 2020 11:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New OpenSSL version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 <!--- language code: en -->
 ]]></content:encoded>
         </item>
