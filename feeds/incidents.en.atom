@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2020-12-15T10:28:40.728Z</updated>
+    <updated>2020-12-15T10:53:19.309Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v86.0.622.69 released]]></title>
+        <id>https://status.nuos.io/incidents/4abbe2f5</id>
+        <link href="https://status.nuos.io/incidents/4abbe2f5"/>
+        <updated>2020-12-17T10:37:06.804Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v87.0.664.60 released]]></title>
+        <id>https://status.nuos.io/incidents/747196cd</id>
+        <link href="https://status.nuos.io/incidents/747196cd"/>
+        <updated>2020-12-12T10:46:22.430Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v87.0.664.57 released]]></title>
+        <id>https://status.nuos.io/incidents/1828fab5</id>
+        <link href="https://status.nuos.io/incidents/1828fab5"/>
+        <updated>2020-12-08T10:45:06.713Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dropbox v111.4.472 released]]></title>
         <id>https://status.nuos.io/incidents/7ada8a78</id>
@@ -16,11 +43,65 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft Edge v87.0.664.55 released]]></title>
+        <id>https://status.nuos.io/incidents/3b22edb3</id>
+        <link href="https://status.nuos.io/incidents/3b22edb3"/>
+        <updated>2020-12-04T04:44:00.335Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v87.0.664.52 released]]></title>
+        <id>https://status.nuos.io/incidents/6f99da30</id>
+        <link href="https://status.nuos.io/incidents/6f99da30"/>
+        <updated>2020-12-01T10:41:43.107Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v87.0.664.47 released]]></title>
+        <id>https://status.nuos.io/incidents/364b3116</id>
+        <link href="https://status.nuos.io/incidents/364b3116"/>
+        <updated>2020-11-24T10:39:49.120Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v87.0.664.41 released]]></title>
+        <id>https://status.nuos.io/incidents/c18debe0</id>
+        <link href="https://status.nuos.io/incidents/c18debe0"/>
+        <updated>2020-11-22T10:38:23.823Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v86.0.622.68 released]]></title>
+        <id>https://status.nuos.io/incidents/5c38dc74</id>
+        <link href="https://status.nuos.io/incidents/5c38dc74"/>
+        <updated>2020-11-14T10:34:54.641Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Chrome v86.0.4240.198 released]]></title>
         <id>https://status.nuos.io/incidents/75b1595b</id>
         <link href="https://status.nuos.io/incidents/75b1595b"/>
         <updated>2020-11-11T23:16:08.452Z</updated>
         <content type="html"><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v86.0.622.61 released]]></title>
+        <id>https://status.nuos.io/incidents/52b8a226</id>
+        <link href="https://status.nuos.io/incidents/52b8a226"/>
+        <updated>2020-11-03T10:31:36.749Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 <!--- language code: en -->
 ]]></content>
     </entry>
