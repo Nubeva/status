@@ -4,10 +4,28 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Wed, 03 Feb 2021 00:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2021 00:56:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft Edge v88.0.705.62 released]]></title>
+            <link>https://status.nuos.io/incidents/6d9a1907</link>
+            <guid>https://status.nuos.io/incidents/6d9a1907</guid>
+            <pubDate>Fri, 05 Feb 2021 00:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Google Chrome v88.0.4324.150 released]]></title>
+            <link>https://status.nuos.io/incidents/4c9a6e98</link>
+            <guid>https://status.nuos.io/incidents/4c9a6e98</guid>
+            <pubDate>Fri, 05 Feb 2021 00:53:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Google Chrome v88.0.4324.146 released]]></title>
             <link>https://status.nuos.io/incidents/19f73c7e</link>
