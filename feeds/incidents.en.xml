@@ -4,10 +4,19 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Fri, 05 Feb 2021 04:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2021 22:44:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LSASS v10.0.17763.1728 released]]></title>
+            <link>https://status.nuos.io/incidents/28aeebe0</link>
+            <guid>https://status.nuos.io/incidents/28aeebe0</guid>
+            <pubDate>Wed, 10 Feb 2021 22:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New LSASS version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Dropbox v115.4.601 released]]></title>
             <link>https://status.nuos.io/incidents/8229ff7a</link>

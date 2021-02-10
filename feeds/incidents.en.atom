@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2021-02-05T04:55:19.187Z</updated>
+    <updated>2021-02-10T22:44:54.942Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LSASS v10.0.17763.1728 released]]></title>
+        <id>https://status.nuos.io/incidents/28aeebe0</id>
+        <link href="https://status.nuos.io/incidents/28aeebe0"/>
+        <updated>2021-02-10T22:43:48.748Z</updated>
+        <content type="html"><![CDATA[<p>New LSASS version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dropbox v115.4.601 released]]></title>
         <id>https://status.nuos.io/incidents/8229ff7a</id>
