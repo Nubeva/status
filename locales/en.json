@@ -44,7 +44,7 @@
                 "title": "Schannel.dll (Windows Server 2016; v10.0.14393.3930)"
             },
             "lsass_winserv2019": {
-                "title": "Schannel.dll (Windows Server 2019; v10.0.17763.1457)"
+                "title": "Schannel.dll (Windows Server 2019; v10.0.17763.1728)"
             },
             "nss": {
                 "title": "NSS (3.59)"
