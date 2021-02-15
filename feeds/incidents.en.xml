@@ -4,7 +4,7 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Wed, 10 Feb 2021 22:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2021 22:30:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
