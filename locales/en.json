@@ -23,13 +23,13 @@
     "systems": {
         "items": {
             "chrome": {
-                "title": "Google Chrome (88.0.4324.182)"
+                "title": "Google Chrome (88.0.4324.190)"
             },
             "dropbox": {
-                "title": "Dropbox (115.4.601)"
+                "title": "Dropbox (116.4.368)"
             },
             "edge": {
-                "title": "Microsoft Edge (88.0.705.68)"
+                "title": "Microsoft Edge (88.0.705.81)"
             },
             "lsass_win10_1909": {
                 "title": "Schannel.dll (Windows 10 v1909; v10.0.18362.1082)"
