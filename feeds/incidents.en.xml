@@ -4,16 +4,43 @@
         <title>Key Extraction Status Page</title>
         <link>https://status.nuos.io</link>
         <description></description>
-        <lastBuildDate>Fri, 26 Feb 2021 04:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 05:11:07 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.nuos.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft Edge v88.0.705.81 released]]></title>
+            <link>https://status.nuos.io/incidents/438589fa</link>
+            <guid>https://status.nuos.io/incidents/438589fa</guid>
+            <pubDate>Fri, 26 Feb 2021 05:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Google Chrome v88.0.4324.190 released]]></title>
             <link>https://status.nuos.io/incidents/b40cb096</link>
             <guid>https://status.nuos.io/incidents/b40cb096</guid>
             <pubDate>Tue, 23 Feb 2021 04:48:39 GMT</pubDate>
             <content:encoded><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Edge v88.0.705.74 released]]></title>
+            <link>https://status.nuos.io/incidents/702ef632</link>
+            <guid>https://status.nuos.io/incidents/702ef632</guid>
+            <pubDate>Fri, 19 Feb 2021 05:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dropbox v116.4.368 released]]></title>
+            <link>https://status.nuos.io/incidents/58aa7b3a</link>
+            <guid>https://status.nuos.io/incidents/58aa7b3a</guid>
+            <pubDate>Fri, 19 Feb 2021 04:51:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p>New Dropbox version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 <!--- language code: en -->
 ]]></content:encoded>
         </item>

@@ -2,16 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2021-02-26T04:50:39.980Z</updated>
+    <updated>2021-02-26T05:11:07.139Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v88.0.705.81 released]]></title>
+        <id>https://status.nuos.io/incidents/438589fa</id>
+        <link href="https://status.nuos.io/incidents/438589fa"/>
+        <updated>2021-02-26T05:05:58.653Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Chrome v88.0.4324.190 released]]></title>
         <id>https://status.nuos.io/incidents/b40cb096</id>
         <link href="https://status.nuos.io/incidents/b40cb096"/>
         <updated>2021-02-23T04:48:39.079Z</updated>
         <content type="html"><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v88.0.705.74 released]]></title>
+        <id>https://status.nuos.io/incidents/702ef632</id>
+        <link href="https://status.nuos.io/incidents/702ef632"/>
+        <updated>2021-02-19T05:06:48.226Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropbox v116.4.368 released]]></title>
+        <id>https://status.nuos.io/incidents/58aa7b3a</id>
+        <link href="https://status.nuos.io/incidents/58aa7b3a"/>
+        <updated>2021-02-19T04:51:17.394Z</updated>
+        <content type="html"><![CDATA[<p>New Dropbox version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
 <!--- language code: en -->
 ]]></content>
     </entry>
