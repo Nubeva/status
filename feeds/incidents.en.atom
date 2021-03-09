@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2021-03-03T03:20:41.681Z</updated>
+    <updated>2021-03-09T04:20:55.524Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome v89.0.4389.82 released]]></title>
+        <id>https://status.nuos.io/incidents/44e2bf09</id>
+        <link href="https://status.nuos.io/incidents/44e2bf09"/>
+        <updated>2021-03-09T06:13:50.965Z</updated>
+        <content type="html"><![CDATA[<p>New Google Chrome version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge 89.0.774.48]]></title>
+        <id>https://status.nuos.io/incidents/583ab9b2</id>
+        <link href="https://status.nuos.io/incidents/583ab9b2"/>
+        <updated>2021-03-09T04:17:55.192Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LSASS v10.0.19041.789 released]]></title>
+        <id>https://status.nuos.io/incidents/4dea864c</id>
+        <link href="https://status.nuos.io/incidents/4dea864c"/>
+        <updated>2021-03-08T04:16:14.247Z</updated>
+        <content type="html"><![CDATA[<p>New LSASS version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Chrome v89.0.4389.72 released]]></title>
         <id>https://status.nuos.io/incidents/1743f364</id>
