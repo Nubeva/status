@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.nuos.io</id>
     <title>Key Extraction Status Page</title>
-    <updated>2021-03-14T07:39:23.837Z</updated>
+    <updated>2021-03-19T02:46:13.379Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.nuos.io"/>
     <link rel="self" href="https://status.nuos.io/feeds/incidents.en.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v89.0.774.57 released]]></title>
+        <id>https://status.nuos.io/incidents/0ab6a936</id>
+        <link href="https://status.nuos.io/incidents/0ab6a936"/>
+        <updated>2021-03-19T02:44:47.247Z</updated>
+        <content type="html"><![CDATA[<p>New Microsoft Edge version has been released. Our automated processes are building a new key extraction agent to support it. All agents should automatically upgrade within the next 5 hours.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge v89.0.774.54 released]]></title>
         <id>https://status.nuos.io/incidents/ffe682a4</id>
