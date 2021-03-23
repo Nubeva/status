@@ -47,7 +47,7 @@
                 "title": "Schannel.dll (Windows Server 2019; v10.0.17763.1728)"
             },
             "nss": {
-                "title": "NSS (3.59)"
+                "title": "NSS (3.63)"
             },
             "openssl_110": {
                 "title": "OpenSSL (1.1.0l)"
